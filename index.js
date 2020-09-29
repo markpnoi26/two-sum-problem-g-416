@@ -1,4 +1,4 @@
-function twoSum(sum, a) {
+function bruteForceTwoSum(sum, a) {
   
   const hash = {}, ans = []
   
